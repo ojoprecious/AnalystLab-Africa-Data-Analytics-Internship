@@ -33,6 +33,3 @@ I also built a `Discount Bracket` calculated column (None / Low / Medium / High)
 ## Top Insight
 My top 10 customers deliver ~$299K of sales at ~24.5% margin — more than double the company average. They rarely take heavy discounts. Disciplined pricing works; the data says to scale that behaviour.
 
-## Author 
-Ojo Precious Mojolaoluwa
-
