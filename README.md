@@ -20,6 +20,12 @@ I transitioned from project planning to data preparation and Exploratory Data An
 
 ***Key finding:*** Appointments booked far in advance (high lead times) and those lacking automated reminders (SMS/WhatsApp) suffer from significantly higher no-show rates, highlighting a clear operational opportunity to optimize scheduling windows and targeted reminder workflows
 
+## Week 6 - HealthConnect Clinic Experience Lab 
+In Week 6 my job was three things: 
+1. Prove week 5 findings are real
+2. Improve the dashboard instead of rebuilding it
+3. Actually connect my work to the Data Science track
+
 ## How to open
 Download the .pbix files and open them with Power BI Desktop (free). Click the slicers to explore.
 
